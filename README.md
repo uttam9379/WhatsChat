@@ -26,7 +26,7 @@ A powerful and interactive Streamlit-based tool to analyze WhatsApp chats — in
 ---
 
 ## 🎥 Demo
-![Logo](Demo.png)
+
 > *Coming Soon!*  
 
 
