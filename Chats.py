@@ -19,7 +19,6 @@ import os
 import exifread
 import wave
 import contextlib
-from langdetect import detect
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.cluster import KMeans
 
