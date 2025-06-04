@@ -27,7 +27,7 @@ A powerful and interactive Streamlit-based tool to analyze WhatsApp chats — in
 
 ## 🎥 Demo
 ![Logo](Demo.png)
-> *Coming Soon!*  
+Check out the live demo of the WhatsAppChatAnalzyer App: https://whatschat-analyzer.streamlit.app/
 
 
 ---
